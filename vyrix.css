@@ -11,6 +11,10 @@ body {
     color: #FFFFFF;
 }
 
+.nav {
+    background-color: #AA336A;
+}
+
 .content {
     margin: 8px;
     padding: 4px;
