@@ -10,3 +10,8 @@ body {
     background-color: #121212;
     color: #FFFFFF;
 }
+
+.content {
+    margin: 8px;
+    padding: 4px;
+}
