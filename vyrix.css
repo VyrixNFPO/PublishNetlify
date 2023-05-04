@@ -30,6 +30,11 @@ body {
     color: #121212;
 }
 
+.nav a.active {
+    background-color: #55cc95;
+    color: #a0a0a0;
+}
+
 .content {
     margin: 8px;
     padding: 4px;
