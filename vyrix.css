@@ -39,3 +39,11 @@ body {
     margin: 8px;
     padding: 4px;
 }
+
+.content h1 {
+    text-align: center;
+}
+
+.content p.centre {
+    text-align: center;
+}
