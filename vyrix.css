@@ -48,7 +48,7 @@ body {
     text-align: center;
 }
 
-.content button {
+.content .button {
     background-color: #4caf50;
     border: none;
     color: #121212;
