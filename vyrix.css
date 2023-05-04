@@ -12,17 +12,22 @@ body {
 }
 
 .nav {
-    background-color: #AA336A;
+    background-color: #aa336a;
     overflow: hidden;
 }
 
 .nav a {
     float: left;
-    color: #BBBBBB;
+    color: #a0a0a0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+}
+
+.nav a:hover {
+    background-color: #e4a6c3;
+    color: #121212;
 }
 
 .content {
