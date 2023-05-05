@@ -14,10 +14,11 @@ body {
 .news {
     background-color: #f00;
     text-align: center;
+    color: #121212
 }
 
 .news a {
-    color: white;
+    color: #121212;
 }
 
 .nav {
