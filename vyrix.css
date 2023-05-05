@@ -11,7 +11,14 @@ body {
     color: #ffffff;
 }
 
+.news {
+    background-color: #f00;
+    text-align: center;
+}
 
+.news a {
+    color: white;
+}
 
 .nav {
     background-color: #aa336a;
